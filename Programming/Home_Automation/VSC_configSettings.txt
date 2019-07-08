@@ -42,3 +42,15 @@
 ##### https://www.youtube.com/watch?v=06I63_p-2A4
 ##### https://www.youtube.com/watch?v=-nh9rCzPJ20
 ##### 
+
+
+#####  pip install pyperclip
+#####  pyperclip
+#####  pip install pyperclip
+#####  pip install pyperclip
+#####  upgrade pip
+#####  pip install --upgrade pip
+#####  pip install pyperclip
+#####  python
+#####  pip install bs4
+#####  python3 -m venv venv
