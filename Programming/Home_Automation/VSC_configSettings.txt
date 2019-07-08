@@ -1,0 +1,31 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "editor.fontSize": 13,
+    "editor.renderControlCharacters": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+    "window.zoomLevel": 0,
+    "workbench.settings.useSplitJSON": true,
+    "editor.fontWeight": "500",
+    "debug.console.fontFamily": "default",
+    "debug.console.fontSize": 13,
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontWeight": "500",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": true,
+    "code-runner.clearPreviousOutput": true
+
+
+
+
+}
