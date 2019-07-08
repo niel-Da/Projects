@@ -24,7 +24,13 @@
     },
     "code-runner.showExecutionMessage": true,
     "code-runner.clearPreviousOutput": true
-
+    "editor.quickSuggestionsDelay": 100,
+    "zenMode.centerLayout": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": true,
 
 
 
