@@ -43,7 +43,7 @@
 ##### https://www.youtube.com/watch?v=06I63_p-2A4
 ##### https://www.youtube.com/watch?v=-nh9rCzPJ20
 ##### https://proinsurer.com.ua/en/blog-en/mac/197-solved-how-to-install-pip,-bs4-beautiful-soup-,-and-update-python-v2-7-to-v3-on-mac
-
+##### https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 
 #####  pip install pyperclip
 #####  pyperclip
